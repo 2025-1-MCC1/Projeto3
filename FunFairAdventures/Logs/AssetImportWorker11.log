@@ -1,0 +1,862 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker11
+-projectPath
+C:/Users/25027188/Desktop/Projeto3-main/FunFairAdventures
+-logFile
+Logs/AssetImportWorker11.log
+-srvPort
+60076
+-job-worker-count
+9
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/25027188/Desktop/Projeto3-main/FunFairAdventures
+C:/Users/25027188/Desktop/Projeto3-main/FunFairAdventures
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [19336]  Target information:
+
+Player connection [19336]  * "[IP] 10.1.34.82 [Port] 0 [Flags] 2 [Guid] 32587010 [EditorId] 32587010 [Version] 1048832 [Id] WindowsEditor(7,350-35) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19336]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 32587010 [EditorId] 32587010 [Version] 1048832 [Id] WindowsEditor(7,350-35) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19336]  * "[IP] 172.26.208.1 [Port] 0 [Flags] 2 [Guid] 32587010 [EditorId] 32587010 [Version] 1048832 [Id] WindowsEditor(7,350-35) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19336] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [19336] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 8.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/25027188/Desktop/Projeto3-main/FunFairAdventures/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
+    Vendor:   Intel
+    VRAM:     3940 MB
+    Driver:   32.0.101.6078
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56432
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.026760 seconds.
+- Loaded All Assemblies, in  0.762 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.765 seconds
+Domain Reload Profiling: 1523ms
+	BeginReloadAssembly (298ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (71ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (122ms)
+	LoadAllAssembliesAndSetupDomain (242ms)
+		LoadAssemblies (294ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (235ms)
+			TypeCache.Refresh (233ms)
+				TypeCache.ScanAssembly (214ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (767ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (696ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (219ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (238ms)
+			ProcessInitializeOnLoadMethodAttributes (127ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.858 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.154 seconds
+Domain Reload Profiling: 3004ms
+	BeginReloadAssembly (365ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (63ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (79ms)
+	LoadAllAssembliesAndSetupDomain (1318ms)
+		LoadAssemblies (984ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (528ms)
+			TypeCache.Refresh (425ms)
+				TypeCache.ScanAssembly (388ms)
+			BuildScriptInfoCaches (81ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1156ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (931ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (48ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (193ms)
+			ProcessInitializeOnLoadAttributes (546ms)
+			ProcessInitializeOnLoadMethodAttributes (127ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 213 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5961 unused Assets / (4.3 MB). Loaded Objects now: 6683.
+Memory consumption went from 176.6 MB to 172.2 MB.
+Total: 14.729300 ms (FindLiveObjects: 2.130000 ms CreateObjectMapping: 0.667200 ms MarkObjects: 8.042500 ms  DeleteObjects: 3.885100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8104.293725 seconds.
+  path: Assets/Pasta carros/OBJ format/wheel-tractor-back.obj
+  artifactKey: Guid(948d6869acbaf6f4b8c0a066668215c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pasta carros/OBJ format/wheel-tractor-back.obj using Guid(948d6869acbaf6f4b8c0a066668215c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d7868a42545fb9edd2e58f506ef12a8') in 0.9309484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.753650 seconds.
+  path: Assets/Pasta carros/OBJ format
+  artifactKey: Guid(22bf21aeb77028b46ad6574ce695c4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pasta carros/OBJ format using Guid(22bf21aeb77028b46ad6574ce695c4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c78360b49f6453c8fab32bda9a8a4aa3') in 0.0013244 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 766.485013 seconds.
+  path: Assets/Pasta carros/FBX format/Textures
+  artifactKey: Guid(f33eecfbb3d52804ba2d8f88ca744c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pasta carros/FBX format/Textures using Guid(f33eecfbb3d52804ba2d8f88ca744c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94e1cb349b9803571952d67515bc6613') in 0.0011784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Pasta carros/FBX format/Textures/colormap.png
+  artifactKey: Guid(9f25887f0beacdd439a5cc6486d7b4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pasta carros/FBX format/Textures/colormap.png using Guid(9f25887f0beacdd439a5cc6486d7b4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08266bbda11d385609deb5438167a8b6') in 0.0218843 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 445.243797 seconds.
+  path: Assets/Imagens/Faixa deficiente.webp
+  artifactKey: Guid(fff19b4a0e806564a86dcfbfa45fab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imagens/Faixa deficiente.webp using Guid(fff19b4a0e806564a86dcfbfa45fab5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a857e9a29d96ecd1e80655770929dc6') in 0.0021818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.440807 seconds.
+  path: Assets/Imagens/fxd.webp
+  artifactKey: Guid(c208968a0d4f5b947a76b12083149b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imagens/fxd.webp using Guid(c208968a0d4f5b947a76b12083149b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3005f3c7edb4ebebe3585644bd207b67') in 0.0018054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2080.142100 seconds.
+  path: Assets/Pasta carros/GLB format
+  artifactKey: Guid(81fedcf3356f70c4087aa53bc374932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pasta carros/GLB format using Guid(81fedcf3356f70c4087aa53bc374932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5bea578bb9319d7e404129a76e34be9') in 0.0024018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 197.302375 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c391582d739b6e62a5220f35cbb167ac') in 0.000752 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.678434 seconds.
+  path: Assets/Assets Cidade
+  artifactKey: Guid(b399242b0d961994cbd4d2e768afb66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade using Guid(b399242b0d961994cbd4d2e768afb66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8eb676772d9ef99410a81791aee155a8') in 0.0064581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.607045 seconds.
+  path: Assets/Assets Cidade/Models
+  artifactKey: Guid(78a19a2256e5ec3429a93010f3ab1b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models using Guid(78a19a2256e5ec3429a93010f3ab1b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41146b431833adb640be21cd071dce47') in 0.000747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.761366 seconds.
+  path: Assets/Assets Cidade/Models/FBX format
+  artifactKey: Guid(14616815eb69bf24288631666a6fe363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format using Guid(14616815eb69bf24288631666a6fe363) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0bc217711310c73cddb30d08abe718d') in 0.0007118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-a.fbx
+  artifactKey: Guid(4d5f5715901fb41489b2b3824850ae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-a.fbx using Guid(4d5f5715901fb41489b2b3824850ae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '133bfce6ae37370b71e9a8e53c1d1d10') in 0.0379079 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-f.fbx
+  artifactKey: Guid(d0f6d845481e99548bd2335b54166e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-f.fbx using Guid(d0f6d845481e99548bd2335b54166e64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21fca7c9456ffc2f751b525ad57a2c03') in 0.0407593 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/fence-2x2.fbx
+  artifactKey: Guid(f1f5a798293266e469563d36f1b864d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/fence-2x2.fbx using Guid(f1f5a798293266e469563d36f1b864d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd85682a0803104468b1a5b16c567d0f4') in 0.0552611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/fence-1x3.fbx
+  artifactKey: Guid(9e3a954836c2b2f4c9d549eccf86863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/fence-1x3.fbx using Guid(9e3a954836c2b2f4c9d549eccf86863d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '426760bf8487a688ad26ee98939ea2f8') in 0.0474685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/fence-1x2.fbx
+  artifactKey: Guid(e80fa03a8d9dbe14d97117e5faf3b506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/fence-1x2.fbx using Guid(e80fa03a8d9dbe14d97117e5faf3b506) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '909753c8065eb392e3353905c6b2fb07') in 0.0441439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-s.fbx
+  artifactKey: Guid(d4bb26518a069a8409f616aec5e4eb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-s.fbx using Guid(d4bb26518a069a8409f616aec5e4eb94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f538cb1dbf1c12e01e342df8a49d352') in 0.0381795 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-j.fbx
+  artifactKey: Guid(024cf86d39f6aaa41848fb10d6caca07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-j.fbx using Guid(024cf86d39f6aaa41848fb10d6caca07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b8cba7984b7196f7215e79a0157ef62') in 0.0454052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/driveway-long.fbx
+  artifactKey: Guid(9a396a141ebc4744ebae3fb5fba90b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/driveway-long.fbx using Guid(9a396a141ebc4744ebae3fb5fba90b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af2732c33568ba8ba9cb01ae2109f2be') in 0.0530791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-c.fbx
+  artifactKey: Guid(04d60a2aa34e3c645b6d88bd48c98b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-c.fbx using Guid(04d60a2aa34e3c645b6d88bd48c98b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '616a834e9af003b8553c794c4c675740') in 0.045647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-i.fbx
+  artifactKey: Guid(9b8b995d2781c3442a0331714dc95e15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-i.fbx using Guid(9b8b995d2781c3442a0331714dc95e15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '429ddd9a0bb9ccb1a57bba74da4eface') in 0.0397773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/fence-2x3.fbx
+  artifactKey: Guid(d4ab6c6745ae4144c94da52c4f42221c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/fence-2x3.fbx using Guid(d4ab6c6745ae4144c94da52c4f42221c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbc6b21e60d2047de6f6b53fa721e502') in 0.051345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/driveway-short.fbx
+  artifactKey: Guid(09bc23d1608d0494a800cbbd968b5573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/driveway-short.fbx using Guid(09bc23d1608d0494a800cbbd968b5573) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb3aa076e5b7ffa9d8cb6698439f7fb3') in 0.0417306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-d.fbx
+  artifactKey: Guid(a9500b05c367d034fa109adc21b64508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-d.fbx using Guid(a9500b05c367d034fa109adc21b64508) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2ab1b85c3c81f8dd2dfb5c6dbee12b0') in 0.0568904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/fence-3x2.fbx
+  artifactKey: Guid(bdaa0df17f4315a47b3f3cd3c0cd3a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/fence-3x2.fbx using Guid(bdaa0df17f4315a47b3f3cd3c0cd3a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12620bf98ef30fbedca41f7b1998fdb4') in 0.0468547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/path-stones-messy.fbx
+  artifactKey: Guid(5a9b0223b52ec1744b9b0abd2d35e737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/path-stones-messy.fbx using Guid(5a9b0223b52ec1744b9b0abd2d35e737) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6054b9dbf8ae85dff7958fbbae0b64b1') in 0.0379237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/planter.fbx
+  artifactKey: Guid(c1adf1e23cf553747b6b618dc7a47de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/planter.fbx using Guid(c1adf1e23cf553747b6b618dc7a47de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92f5c548e1375f5f7c9ab867d8451dc7') in 0.0539377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/fence-low.fbx
+  artifactKey: Guid(0647ff864a2371549816c9c27455334f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/fence-low.fbx using Guid(0647ff864a2371549816c9c27455334f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c6d8d1caf05ca0b0756e8f36ae2d6cf') in 0.0480048 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/tree-small.fbx
+  artifactKey: Guid(fae37c47371d8e3439cadbbf9e625b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/tree-small.fbx using Guid(fae37c47371d8e3439cadbbf9e625b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b80abf222dc27f648ac8015f2a1af18d') in 0.0519317 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-u.fbx
+  artifactKey: Guid(98837d2641b3b8f449ceb931b314ec57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-u.fbx using Guid(98837d2641b3b8f449ceb931b314ec57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27b8d7bb97e151e3c8ca2559640e8512') in 0.0501131 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Assets Cidade/Models/FBX format/building-type-q.fbx
+  artifactKey: Guid(c41ce800560ce6440a595825260aecae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/FBX format/building-type-q.fbx using Guid(c41ce800560ce6440a595825260aecae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f1b7269ae193126b802330d41616f8b') in 0.049946 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.260874 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/building-type-b.obj
+  artifactKey: Guid(b374c347643ac094db2cf88bb65d7ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/building-type-b.obj using Guid(b374c347643ac094db2cf88bb65d7ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f48ae4daf54614d8aa4e63fe41fcd9e0') in 0.0582734 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/building-type-j.obj
+  artifactKey: Guid(838ede5246b37e842a28b9bb229d6e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/building-type-j.obj using Guid(838ede5246b37e842a28b9bb229d6e30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b7054884334b5c3a46d622dc125a75a') in 0.0469095 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/building-type-l.obj
+  artifactKey: Guid(3643ed1cebfb72d48bad88f2b52764a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/building-type-l.obj using Guid(3643ed1cebfb72d48bad88f2b52764a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd441c39e371fe78d0043b4993376fd3') in 0.0417346 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/building-type-f.obj
+  artifactKey: Guid(da7d2b7178d88c2428d297703ca83dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/building-type-f.obj using Guid(da7d2b7178d88c2428d297703ca83dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2770959b8727a970add679bc068eda34') in 0.0458523 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/building-type-m.obj
+  artifactKey: Guid(44f925081f2c3dc4392cab4392566466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/building-type-m.obj using Guid(44f925081f2c3dc4392cab4392566466) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9dcd219baf8c5b33f2a9f1216a0f0741') in 0.0479165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/building-type-h.obj
+  artifactKey: Guid(b6cfe52dc52a12b47a3b72fcc1d7012a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/building-type-h.obj using Guid(b6cfe52dc52a12b47a3b72fcc1d7012a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c176871ccc270b800f7f74a839f6999') in 0.049659 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.778807 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/building-type-q.obj
+  artifactKey: Guid(cd45ee4039269fd4bbf1599eb88e1299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/building-type-q.obj using Guid(cd45ee4039269fd4bbf1599eb88e1299) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd07c77a5807149c64278057ce4cf347') in 0.0651624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.046932 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/driveway-long.obj
+  artifactKey: Guid(b19d2031b6810be45a71e288911e1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/driveway-long.obj using Guid(b19d2031b6810be45a71e288911e1517) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7019409b9e329c99cfc29ddcba060456') in 0.064824 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.546066 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/fence-1x4.obj
+  artifactKey: Guid(4e0efedc717fb5c49b867990024c9611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/fence-1x4.obj using Guid(4e0efedc717fb5c49b867990024c9611) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9d148f20b7476e7433428b47b369b68') in 0.0590702 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.570231 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/fence-low.obj
+  artifactKey: Guid(6273c50f8e556774684b75b97b62b9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/fence-low.obj using Guid(6273c50f8e556774684b75b97b62b9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e68d3135fdc6e7b9b1ca2451d7ec578') in 0.0580861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.342530 seconds.
+  path: Assets/Assets Cidade/Models/OBJ format/path-stones-short.obj
+  artifactKey: Guid(0382ab5bf6f9efb49903a5d592db7a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Cidade/Models/OBJ format/path-stones-short.obj using Guid(0382ab5bf6f9efb49903a5d592db7a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16f73c181db2ecbfb421fb68019f2674') in 0.0541218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 3053.914748 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_1.fbx
+  artifactKey: Guid(b764019fb69151e49b40c344c0e920ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_1.fbx using Guid(b764019fb69151e49b40c344c0e920ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16b43a9a68e68ba3f72c8c94372c05d3') in 0.0440251 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_11.fbx
+  artifactKey: Guid(30e2143def7303f4cb73e5dd0bb4c21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_11.fbx using Guid(30e2143def7303f4cb73e5dd0bb4c21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '613f995ca3c654df062811e137e251bb') in 0.0266054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_donut.fbx
+  artifactKey: Guid(8f391ec8d9a2e464d97d54b1813364f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_donut.fbx using Guid(8f391ec8d9a2e464d97d54b1813364f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59e0dcecd646007b2e2e4961f18b9b20') in 0.0236804 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_isaw.fbx
+  artifactKey: Guid(137d733f19cd8fc41bc517b6b1d3694c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_isaw.fbx using Guid(137d733f19cd8fc41bc517b6b1d3694c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f20dd79b35e4811b47bc5c62b0e7faa') in 0.0293899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_3.fbx
+  artifactKey: Guid(e126d63c3aebaa644ad9131ef676220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_3.fbx using Guid(e126d63c3aebaa644ad9131ef676220d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de07e1a84f770e71cf00be245a706c6d') in 0.0262253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_ramen.fbx
+  artifactKey: Guid(24bee2eae5b0d2643adbf6d58fe2d048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_ramen.fbx using Guid(24bee2eae5b0d2643adbf6d58fe2d048) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48513dbd87aee982509c10ae1ff03cc1') in 0.0258218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_10.fbx
+  artifactKey: Guid(a468de6d881c44e4c968b5cc0655c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_10.fbx using Guid(a468de6d881c44e4c968b5cc0655c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3277d74aa4931a822f49536ad2cac9d') in 0.021527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_riceball.fbx
+  artifactKey: Guid(02aed47c687b83d4580fb1614c0b9291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_riceball.fbx using Guid(02aed47c687b83d4580fb1614c0b9291) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b88c8ab7d0bb2a2acf22cdd1fe8ebd34') in 0.0255689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_4.fbx
+  artifactKey: Guid(5593252bed4bd36478335829568fd0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_4.fbx using Guid(5593252bed4bd36478335829568fd0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '457cc32c4c27e51fed70c8252ed25dfe') in 0.0280628 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_12.fbx
+  artifactKey: Guid(367be0d4f1bec9c46a057a2b0e40e171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_12.fbx using Guid(367be0d4f1bec9c46a057a2b0e40e171) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aff5d8fec42bd6358fe1911f3392dd4a') in 0.0251255 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_corn.fbx
+  artifactKey: Guid(e602356e5c4371c4bb0d74f0a73be554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_corn.fbx using Guid(e602356e5c4371c4bb0d74f0a73be554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb80fb6ec2d7491cd95a6c6f57c4b201') in 0.0307566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_mochi.fbx
+  artifactKey: Guid(eee5c1007c6eb6742834558f5c8555cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_mochi.fbx using Guid(eee5c1007c6eb6742834558f5c8555cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fdbdf9889b08b509cfa3d79b6d50ebce') in 0.0304406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_bananaque.fbx
+  artifactKey: Guid(7747786ac0ee66a4fa84b269147dc1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_bananaque.fbx using Guid(7747786ac0ee66a4fa84b269147dc1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2000cce2a91c391fe988ededc92ba0b') in 0.0391879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_9.fbx
+  artifactKey: Guid(54667cb2ac4bdce48bf5162463668c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_fence_9.fbx using Guid(54667cb2ac4bdce48bf5162463668c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90e1aa772d27e9552fecf607d962bb12') in 0.030973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_pizza.fbx
+  artifactKey: Guid(ccd9e6974eff703438ef98e5cf5152b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_pizza.fbx using Guid(ccd9e6974eff703438ef98e5cf5152b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45d48d99e40c75ab74f83950a21a031b') in 0.0328221 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.367302 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_soda.fbx
+  artifactKey: Guid(fe52243fa5ebb9443b67341111c5d7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_soda.fbx using Guid(fe52243fa5ebb9443b67341111c5d7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e93cf2187a6a6d95601aeee89c784e09') in 0.032907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_sushi.fbx
+  artifactKey: Guid(3b470a93a44b8a7429ba013fa20b0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_sushi.fbx using Guid(3b470a93a44b8a7429ba013fa20b0a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65cafd56c71aa2021346f6b6f833f98d') in 0.0328999 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_food_taiyaki.fbx
+  artifactKey: Guid(cd363d411ed7b384b9beec9970ea8454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_food_taiyaki.fbx using Guid(cd363d411ed7b384b9beec9970ea8454) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dea1a02926454f6427555586b3371be0') in 0.0292115 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_ride_teacupride.fbx
+  artifactKey: Guid(73073e583f3b6f94daa485c8d17e2eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_ride_teacupride.fbx using Guid(73073e583f3b6f94daa485c8d17e2eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '89b8a781631d9abdfb37569cd3e4aba6') in 0.2297856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 54
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_ride_rolercoaster.fbx
+  artifactKey: Guid(bf2cc9f790f42444c911287b55cd41be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_ride_rolercoaster.fbx using Guid(bf2cc9f790f42444c911287b55cd41be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cad99e16d65b337026c5c6124dd11b73') in 0.4868527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 124
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_ride_rockstar.fbx
+  artifactKey: Guid(8848c6637653a2a469f13ec1807522a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_ride_rockstar.fbx using Guid(8848c6637653a2a469f13ec1807522a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e76ffe816d38b0a35bdab35c725f910f') in 0.1108061 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.270282 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_adidas.fbx
+  artifactKey: Guid(6b13f91d665b16e4696f3111099c1f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_adidas.fbx using Guid(6b13f91d665b16e4696f3111099c1f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cfb8b17d22a31f372179e9b8302aec7b') in 0.0276012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_bananaque.fbx
+  artifactKey: Guid(274e9205d98acda4c8b65ba9a60f0463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_bananaque.fbx using Guid(274e9205d98acda4c8b65ba9a60f0463) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f3513fd34f39e77b0a79d6eb0f80589') in 0.0263644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_hotdog.fbx
+  artifactKey: Guid(ae9894b2afa50414484e53c73d6519ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_hotdog.fbx using Guid(ae9894b2afa50414484e53c73d6519ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a8ba6977a1e95cf9be134f804b4414a') in 0.0269813 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_donut.fbx
+  artifactKey: Guid(2e6b23fa55806e5459282609da584cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_donut.fbx using Guid(2e6b23fa55806e5459282609da584cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afe64d5f63f934d3cedb35a51b8e9707') in 0.0270975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_hakdog.fbx
+  artifactKey: Guid(908894daaa34028408410f0453cda5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_hakdog.fbx using Guid(908894daaa34028408410f0453cda5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4035544f996dcdbf69840dbdf79d853') in 0.0267077 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.662731 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_pancake.fbx
+  artifactKey: Guid(c0ef87ffc835618429a22b7b08e0736d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_pancake.fbx using Guid(c0ef87ffc835618429a22b7b08e0736d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53cdcb5a135520e20ace2a0aeeb8bdf0') in 0.0329055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_sisig.fbx
+  artifactKey: Guid(85acd9f03514fd341adb8130e3a940f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_sisig.fbx using Guid(85acd9f03514fd341adb8130e3a940f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c48d2b7f35ddd42a9dde87c52f626675') in 0.0349886 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_1_a.fbx
+  artifactKey: Guid(55af90be6f88c774aac53aa839303399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_1_a.fbx using Guid(55af90be6f88c774aac53aa839303399) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4b6fe0ffb0307fd1dad84f351e1f8a9') in 0.0400649 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_sushi.fbx
+  artifactKey: Guid(cab855aabb9dafa4f9d98ed2e5746090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_sushi.fbx using Guid(cab855aabb9dafa4f9d98ed2e5746090) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9c6efb31e075aacbd03329779148c68') in 0.0392207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_store_taiyaki.fbx
+  artifactKey: Guid(60ec468813e0cc947b31a22cda824b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_store_taiyaki.fbx using Guid(60ec468813e0cc947b31a22cda824b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b26e38b8ae57b83b7d0a736becbb3c4a') in 0.0337437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.724185 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_1_c.fbx
+  artifactKey: Guid(317d74578f59f644894ceda28a138701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_1_c.fbx using Guid(317d74578f59f644894ceda28a138701) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e36aa6860535f609df0b7de92d159d05') in 0.0383919 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_2_c.fbx
+  artifactKey: Guid(6c59b47bcad55214899250c4bc4a3f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_2_c.fbx using Guid(6c59b47bcad55214899250c4bc4a3f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5cdf7a2cbab2f5b532d1fd4c14f28f2') in 0.0293531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_3_c.fbx
+  artifactKey: Guid(3d5839fd372bc7b498131ce8c9105b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_3_c.fbx using Guid(3d5839fd372bc7b498131ce8c9105b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e9ded4c143d14e038f6a1e49312765d') in 0.0330507 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_3_b.fbx
+  artifactKey: Guid(1223ceeea8923594689851b150cb54c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_3_b.fbx using Guid(1223ceeea8923594689851b150cb54c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a5ab6bbd55e5d85225f09d6f77de565') in 0.0242066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.817684 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_4_a.fbx
+  artifactKey: Guid(757e15ba45ab6ec449a152622acbf039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_4_a.fbx using Guid(757e15ba45ab6ec449a152622acbf039) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '960acce4b8c34f0fe5b1d6e69a280a27') in 0.0422361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_4_d.fbx
+  artifactKey: Guid(8b518ca63ab76d441894544587eea324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_4_d.fbx using Guid(8b518ca63ab76d441894544587eea324) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '006275acd3e22a062b4be38aa1270f21') in 0.0324583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_5_b.fbx
+  artifactKey: Guid(2de0113f2d71c554b9543a5ff12a431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_5_b.fbx using Guid(2de0113f2d71c554b9543a5ff12a431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '922ab383194f1fd0c3a011700f1b20c2') in 0.0282767 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.433289 seconds.
+  path: Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_6_c.fbx
+  artifactKey: Guid(de034f45d10996a43a5d2a6392da30e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyBoy/AmusementPark/Models/lpb_tree_6_c.fbx using Guid(de034f45d10996a43a5d2a6392da30e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8776dd711341a3b06bfa09c439c19326') in 0.0345449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
