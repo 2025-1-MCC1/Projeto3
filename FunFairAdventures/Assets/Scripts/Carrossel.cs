@@ -1,26 +1,63 @@
+using System.Collections;
 using UnityEngine;
 
-public class CavaloCarrossel : MonoBehaviour
+public class CarouselController : MonoBehaviour
 {
-    public float amplitude = 0.5f;       // Distância lateral máxima
-    public float velocidade = 2f;        // Velocidade do movimento
+    public float rotationSpeed = 20f;
+    public float pauseDuration = 5f;
+    public float runDuration = 15f;
 
-    private Vector3 posicaoInicial;
-    private float offsetFase;
+    public Transform[] horses;
+    public float horseMoveAmplitude = 0.5f;  // Altura do sobe e desce
+    public float horseMoveSpeed = 2f;        // Velocidade do movimento vertical
+
+    private Vector3[] initialHorsePositions;
+    private bool isPaused = false;
 
     void Start()
     {
-        posicaoInicial = transform.localPosition;
+        // Armazena as posições iniciais dos cavalos
+        initialHorsePositions = new Vector3[horses.Length];
+        for (int i = 0; i < horses.Length; i++)
+        {
+            initialHorsePositions[i] = horses[i].localPosition;
+        }
 
-        // Cria uma diferença de fase entre os cavalos
-        offsetFase = Random.Range(0f, Mathf.PI * 2f);
+        // Inicia a rotação controlada
+        StartCoroutine(RotationCycle());
     }
 
     void Update()
     {
-        float deslocamento = Mathf.Sin(Time.time * velocidade + offsetFase) * amplitude;
+        // Gira o carrossel se não estiver pausado
+        if (!isPaused)
+        {
+            transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
+        }
 
-        // Movimento lateral (mude o eixo se necessário)
-        transform.localPosition = posicaoInicial + new Vector3(deslocamento, 0, 0);
+        // Movimento vertical dos cavalos
+        AnimateHorses();
+    }
+
+    void AnimateHorses()
+    {
+        for (int i = 0; i < horses.Length; i++)
+        {
+            Vector3 pos = initialHorsePositions[i];
+            pos.y += Mathf.Sin(Time.time * horseMoveSpeed + i) * horseMoveAmplitude;
+            horses[i].localPosition = pos;
+        }
+    }
+
+    IEnumerator RotationCycle()
+    {
+        while (true)
+        {
+            isPaused = false;
+            yield return new WaitForSeconds(runDuration);
+
+            isPaused = true;
+            yield return new WaitForSeconds(pauseDuration);
+        }
     }
 }
