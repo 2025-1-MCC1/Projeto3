@@ -17,12 +17,12 @@ Vide tutoriais do PI.
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Gustavo Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eric Alouise</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduarda Padilla</a> <a href="https://www.linkedin.com/in/victorbarq/"></a> <a href="https://www.linkedin.com/in/victorbarq/"></a>
 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a> <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a> <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luís Fernando</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joyce Daniele</a> <a href="https://www.linkedin.com/in/victorbarq/"></a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img FunFairAdventures/Assets/Imagens/ChatGPT Image 17_04_2025, 13_55_50.png alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
