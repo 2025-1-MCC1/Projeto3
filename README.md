@@ -14,10 +14,9 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo: Algoritmos imparáveis
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Gustavo Pires</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eric Alouise</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduarda Padilla</a> <a href="https://www.linkedin.com/in/victorbarq/"></a> <a href="https://www.linkedin.com/in/victorbarq/"></a>
+## Integrantes: Gustavo Pires, Eric Alouise, Eduarda Padilla
+## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix</a>,  <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Quiroz</a>, <a href="https://www.linkedin.com/in/luisspires/">Luís Fernando</a>, Joyce Daniele
 
-
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Luís Fernando</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joyce Daniele</a> <a href="https://www.linkedin.com/in/victorbarq/"></a>
 
 ## Descrição
 
