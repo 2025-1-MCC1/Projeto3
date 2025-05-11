@@ -1,9 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
-
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
@@ -25,14 +19,8 @@ Vide tutoriais do PI.
   Projeto criado por: Gustavo, Eduarda, Eric
 </p>
 
+<p>Nosso projeto é um jogo desenvolvido na Unity com o tema de um parque de diversões. O objetivo principal é proporcionar uma experiência interativa e divertida, na qual o jogador participa de diversos minigames espalhados pelo parque. A cada desafio vencido, o jogador ganha moedas e ajuda a evitar que o parque feche as portas por falta de visitantes.</p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
@@ -67,15 +55,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
@@ -84,11 +63,6 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 ```sh
 Coloque código do prompt de comnando se for necessário
 ```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
