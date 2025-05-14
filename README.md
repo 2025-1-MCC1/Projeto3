@@ -4,12 +4,14 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto: FunFair Adventures
+##       FunFair Adventures
 
-## Nome do Grupo: Algoritmos imparáveis
+##       Algoritmos imparáveis
+## Integrantes:  <a href="https://www.linkedin.com/in/gustavo-pires-429097356">Gustavo Pires</a>,  <a href="https://www.linkedin.com/in/eduardapadilla">Eduarda Padilla</a>,  <a href="https://www.linkedin.com/in/luisspires/">Eric Aloise</a>
 
-## Integrantes: Gustavo Pires, Eric Alouise, Eduarda Padilla
-## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix</a>,  <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Quiroz</a>, <a href="https://www.linkedin.com/in/luisspires/">Luís Fernando</a>, Joyce Daniele
+
+## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>,  <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/luisspires/">Luís Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, Joyce Daniele Tavares
+
 
 
 ## Descrição:
