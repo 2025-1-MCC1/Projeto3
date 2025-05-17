@@ -1,46 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\",
+  "WorkspaceRootPath": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\brinquedocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brinquedocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\gusta\\onedrive\\desktop\\funfairadventures\\assets\\scripts\\painellinteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\painellinteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\gusta\\onedrive\\documentos\\github\\projeto3\\funfairadventures\\assets\\game1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\game1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\gusta\\onedrive\\desktop\\funfairadventures\\assets\\scripts\\wiretask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\wiretask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\assets\\scripts\\repocisionarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repocisionarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\gusta\\onedrive\\documentos\\github\\projeto3\\funfairadventures\\assets\\scripts\\elevador\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevador\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\parquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\gusta\\onedrive\\documentos\\github\\projeto3\\funfairadventures\\assets\\scripts\\finalizarminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\assets\\scripts\\finalizarminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finalizarminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\wiretask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wiretask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\reposicionarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\reposicionarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,133 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Game1\\Main.cs",
-              "RelativeDocumentMoniker": "Assets\\Game1\\Main.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Game1\\Main.cs",
-              "RelativeToolTip": "Assets\\Game1\\Main.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T23:36:32.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ElevatorController.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Elevador\\ElevatorController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Elevador\\ElevatorController.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Elevador\\ElevatorController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Elevador\\ElevatorController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T22:51:59.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BrinquedoController.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\BrinquedoController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BrinquedoController.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\BrinquedoController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BrinquedoController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwEcAAAAAAAAAAAAAAA==",
+              "Title": "PainellInteracao.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\PainellInteracao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PainellInteracao.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\PainellInteracao.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PainellInteracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:36:37.669Z",
+              "WhenOpened": "2025-05-17T12:25:18.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ParqueController.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ParqueController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ParqueController.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ParqueController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ParqueController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:36:04.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReposicionarJogador.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ReposicionarJogador.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ReposicionarJogador.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ReposicionarJogador.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ReposicionarJogador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:35:26.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FinalizarMinigame.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\FinalizarMinigame.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FinalizarMinigame.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\FinalizarMinigame.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FinalizarMinigame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:34:04.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "WireTask.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\WireTask.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\WireTask.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WireTask.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\WireTask.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\WireTask.cs",
               "RelativeToolTip": "Assets\\Scripts\\WireTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:33:39.658Z"
+              "WhenOpened": "2025-05-17T11:56:43.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Title": "RepocisionarJogador.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\RepocisionarJogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepocisionarJogador.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\RepocisionarJogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepocisionarJogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:29:42.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T11:56:10.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CursorManager.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\CursorManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CursorManager.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\CursorManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CursorManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FinalizarMinigame.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\FinalizarMinigame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinalizarMinigame.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\FinalizarMinigame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinalizarMinigame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:58:21.544Z"
+              "WhenOpened": "2025-05-17T11:55:49.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\GameState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\GameState.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\GameState.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:32:42.066Z"
+              "WhenOpened": "2025-05-17T11:55:15.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:37:07.614Z"
             }
           ]
         }
