@@ -1,26 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\",
+  "WorkspaceRootPath": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\gusta\\onedrive\\documentos\\github\\projeto3\\funfairadventures\\assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\padil\\onedrive\\documentos\\github\\projeto3\\funfairadventures\\assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\interactwithman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactwithman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\playeriteminteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeriteminteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\interactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\interactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\elevador\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevador\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\brinquedocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brinquedocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\game1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\game1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\ativarbrinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ativarbrinquedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\botaovoltar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\botaovoltar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\completarminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\completarminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\cursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\painelinteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\painelinteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\InteracaoPainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +61,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Teste.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Teste.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Teste.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Teste.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Teste.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T18:42:18.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InteractionSystem.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\InteractionSystem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionSystem.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\InteractionSystem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InteractionSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T18:01:09.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IInteractable.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\IInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\IInteractable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\IInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T18:00:41.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerItemInteraction.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\PlayerItemInteraction.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerItemInteraction.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\PlayerItemInteraction.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerItemInteraction.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T17:51:40.087Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Jogador.cs",
-              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Jogador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Jogador.cs",
-              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Jogador.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Jogador.cs",
               "RelativeToolTip": "Assets\\Scripts\\Jogador.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAQwKAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T00:18:37.015Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractwithMan.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\InteractwithMan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractwithMan.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\InteractwithMan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractwithMan.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:28:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElevatorController.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Elevador\\ElevatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Elevador\\ElevatorController.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Elevador\\ElevatorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Elevador\\ElevatorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:47:33.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "npc.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\npc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\npc.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\npc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\npc.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:29:28.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrinquedoController.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\BrinquedoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BrinquedoController.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\BrinquedoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BrinquedoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:21:29.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AtivarBrinquedo.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\AtivarBrinquedo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AtivarBrinquedo.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\AtivarBrinquedo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AtivarBrinquedo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:07:17.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:54:25.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BotaoVoltar.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\BotaoVoltar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BotaoVoltar.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\BotaoVoltar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BotaoVoltar.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:36:52.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CursorController.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\CursorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CursorController.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\CursorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CursorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:28:49.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Game1\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\Game1\\Main.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Game1\\Main.cs",
+              "RelativeToolTip": "Assets\\Game1\\Main.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:18:04.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompletarMinigame.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\CompletarMinigame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CompletarMinigame.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\CompletarMinigame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CompletarMinigame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:13:15.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PainelInteracao.cs",
+              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\PainelInteracao.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PainelInteracao.cs",
+              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\PainelInteracao.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PainelInteracao.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:05:47.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InteracaoPainel.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\InteracaoPainel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\InteracaoPainel.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\InteracaoPainel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Gusta\\OneDrive\\Desktop\\FunFairAdventures\\Assets\\Scripts\\InteracaoPainel.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:35:17.504Z"
             }
           ]
         }
