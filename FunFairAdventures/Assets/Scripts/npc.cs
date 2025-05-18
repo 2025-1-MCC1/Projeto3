@@ -1,17 +1,19 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.AI;
 
 [RequireComponent(typeof(NavMeshAgent))]
 public class RandomPatrol : MonoBehaviour
 {
-    [Header("Área de Patrulha")]
-    public float limiteXMin = -30f;
-    public float limiteXMax = 30f;
-    public float limiteZMin = -30f;
-    public float limiteZMax = 30f;
+    [Header("Patrulha")]
+    public Transform patrolCenter;      // Centro da patrulha (opcional)
+    public float patrolRadius = 10f;    // Raio da Ã¡rea de patrulha
+    public float waitTime = 2f;         // Tempo de espera ao chegar no destino
 
-    public float waitTime = 2f;
-    public float patrolRadius = 10f;
+    [Header("Limites de Movimento")]
+    public float limiteXMin = -10f;    // Limite mÃ­nimo no eixo X
+    public float limiteXMax = 10f;     // Limite mÃ¡ximo no eixo X
+    public float limiteZMin = -10f;    // Limite mÃ­nimo no eixo Z
+    public float limiteZMax = 10f;     // Limite mÃ¡ximo no eixo Z
 
     private NavMeshAgent agent;
     private float timer;
@@ -19,16 +21,13 @@ public class RandomPatrol : MonoBehaviour
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
-
-        // Cada NPC começa com uma espera aleatória
-        timer = Random.Range(0f, waitTime);
-
-        // Define uma posição inicial aleatória
+        timer = waitTime;
         SetNewDestination();
     }
 
     void Update()
     {
+        // Verifica se o agente chegou ao destino
         if (!agent.pathPending && agent.remainingDistance <= agent.stoppingDistance)
         {
             timer -= Time.deltaTime;
@@ -43,15 +42,17 @@ public class RandomPatrol : MonoBehaviour
 
     void SetNewDestination()
     {
-        // Gera um ponto aleatório dentro dos limites
-        float x = Random.Range(limiteXMin, limiteXMax);
-        float z = Random.Range(limiteZMin, limiteZMax);
-        Vector3 target = new Vector3(x, transform.position.y, z);
+        Vector3 basePosition = patrolCenter != null ? patrolCenter.position : transform.position;
 
-        // Garante que o ponto está no NavMesh
-        if (NavMesh.SamplePosition(target, out NavMeshHit hit, patrolRadius, NavMesh.AllAreas))
-        {
-            agent.SetDestination(hit.position);
-        }
+        Vector3 randomDirection = Random.insideUnitSphere * patrolRadius;
+        randomDirection.y = 0;
+
+        float newX = Mathf.Clamp(basePosition.x + randomDirection.x, limiteXMin, limiteXMax);
+        float newZ = Mathf.Clamp(basePosition.z + randomDirection.z, limiteZMin, limiteZMax);
+
+        Vector3 targetPosition = new Vector3(newX, basePosition.y, newZ);
+
+        // ðŸ”§ Esta linha estava faltando!
+        agent.SetDestination(targetPosition);
     }
 }
