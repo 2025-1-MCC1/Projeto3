@@ -1,141 +1,123 @@
-using UnityEngine;
-using System.Collections.Generic;
 using System.Collections;
-using UnityEngine.InputSystem;
-
+using UnityEngine;
 
 [RequireComponent(typeof(CharacterController))]
-public class Scripts : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public float jumpHeight = 1.5f;
     public float gravity = -9.81f;
-    public float mouseSensitivity = 2f;
+    public float mouseSensitivity = 100f; // Sensibilidade aumentada
 
     private CharacterController controller;
-    private Vector2 velocity;
-    private bool isGrounded;
-
-    private Transform cam;
-
-    public int moedasColetadas;
+    private float verticalVelocity;
+    private Transform cameraTransform;
+    private float cameraPitch = 0f;
+    private bool inputEnabled = false;
+    private CursorController cursorController;
 
     void Start()
     {
         controller = GetComponent<CharacterController>();
-        cam = transform.Find("Main Camera");
-        Cursor.lockState = CursorLockMode.Locked;
+
+        // Obter ou adicionar o controlador de cursor
+        cursorController = GetComponent<CursorController>();
+        if (cursorController == null)
+        {
+            cursorController = gameObject.AddComponent<CursorController>();
+        }
+
+        // Encontrar a câmera
+        cameraTransform = transform.Find("Main Camera");
+        if (cameraTransform == null)
+        {
+            Debug.LogError("Camera not found as a child of the player object!");
+            return;
+        }
+
+        // Resetar rotação da câmera
+        cameraPitch = 0f;
+        cameraTransform.localRotation = Quaternion.identity;
+
+        // Bloquear cursor usando o controlador dedicado
+        cursorController.LockCursor();
+
+        // Atrasar o processamento de entrada para evitar salto inicial do mouse
+        StartCoroutine(EnableInputAfterDelay(0.5f));
     }
 
-    // Update is called once per frame
+    IEnumerator EnableInputAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+
+        // Descartar valores iniciais do mouse para evitar saltos
+        float discardX = Input.GetAxis("Mouse X");
+        float discardY = Input.GetAxis("Mouse Y");
+
+        // Habilitar entrada
+        inputEnabled = true;
+        Debug.Log("Input enabled, camera control should now work");
+    }
+
     void Update()
     {
-        // Checagem de solo
-        isGrounded = controller.isGrounded;
-        if (isGrounded && velocity.y < 0)
+        // Só processar entrada se habilitada
+        if (!inputEnabled)
+            return;
+
+        ProcessMovement();
+        ProcessRotation();
+    }
+
+    void ProcessMovement()
+    {
+        // Verificação de solo
+        bool isGrounded = controller.isGrounded;
+        if (isGrounded && verticalVelocity < 0)
         {
-            velocity.y = -2f; // Mantém o personagem preso no chão
+            verticalVelocity = -2f;
         }
 
-        // Entada de movimento
-        float moveX = Input.GetAxis("Horizontal");
-        float moveZ = Input.GetAxis("Vertical");
+        // Obter eixos de entrada
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
 
-        Vector3 move = transform.right * moveX + transform.forward * moveZ;
-        controller.Move(move * moveSpeed * Time.deltaTime);
+        // Calcular direção do movimento relativa à orientação do personagem
+        Vector3 moveDirection = new Vector3(horizontalInput, 0, verticalInput).normalized;
 
-        //Pulo
-        if (Input.GetButtonDown("Jump") && isGrounded)
+        // Converter direção local para espaço global baseado na orientação do jogador
+        Vector3 moveVector = transform.TransformDirection(moveDirection) * moveSpeed;
+
+        // Lidar com pulo
+        if (isGrounded && Input.GetButtonDown("Jump"))
         {
-            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            verticalVelocity = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
 
-        // Gravidade 
-        velocity.y += gravity * Time.deltaTime;
-        controller.Move(velocity * Time.deltaTime);
+        // Aplicar gravidade
+        verticalVelocity += gravity * Time.deltaTime;
 
-        // Rotação com o mouse
-        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
+        // Definir componente vertical do movimento
+        moveVector.y = verticalVelocity;
+
+        // Aplicar movimento
+        controller.Move(moveVector * Time.deltaTime);
+    }
+
+    void ProcessRotation()
+    {
+        // Usar GetAxisRaw para movimentos mais responsivos
+        float mouseX = Input.GetAxisRaw("Mouse X") * mouseSensitivity * Time.deltaTime;
+        float mouseY = Input.GetAxisRaw("Mouse Y") * mouseSensitivity * Time.deltaTime;
+
+        // Rotacionar o jogador horizontalmente
         transform.Rotate(Vector3.up * mouseX);
 
-        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
-        cam.Rotate(Vector3.right * -mouseY);
+        // Rotacionar a câmera verticalmente
+        cameraPitch -= mouseY;
+        cameraPitch = Mathf.Clamp(cameraPitch, -85f, 85f);
+
+        // Aplicar rotação à câmera
+        cameraTransform.localRotation = Quaternion.Euler(cameraPitch, 0f, 0f);
     }
-    // moedas
-    public void GanharMoeda()
-    {
-        moedasColetadas += 1;
-    }
-
-    //para interagir 
-
-interface IInteractable
-{
-    public void Interact();
-}
-public class Interação : MonoBehaviour
-{
-    public Transform InteractionSource; // Fonte de interação
-
-    public float InteractionRange; // Alcance da interação
-
-    public InputActionReference interactionInputAction;
-
-    private void OnEnable()
-    {
-        //interactionInputAction.action.performed += Interact;
-    }
-
-    private void OnDisable()
-    {
-        //interactionInputAction.action.performed -= Interact;
-    }
-    //private void Interact(InputAction.CallbackContext obj)
-    //{
-    //    //Vector3 interactionPosition = InteractionSource.position + Vector3.up;
-    //    InteractionSource.position += new Vector3(0, 1f, 0);
-    //    Ray playerAim = new Ray(InteractionSource.position, InteractionSource.forward);
-    //
-    //    // Desenha o raio na aba Scene para visualização
-    //    Debug.DrawRay(playerAim.origin, playerAim.direction * InteractionRange, Color.red, 1f);
-    //
-    //    Debug.Log("lançando raio");
-    //
-    //    if (Physics.Raycast(playerAim, out RaycastHit hitInfo, InteractionRange))
-    //    {
-    //        
-    //        if (hitInfo.collider.TryGetComponent(out IInteractable interactableObj))
-    //        {
-    //            interactableObj.Interact();
-    //        }
-    //    }
-    //}
-
-    private void Update()
-    {
-
-
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            Vector3 interactionPosition = InteractionSource.position + Vector3.up * 2.5f; // mirar o npc com o player (escolher player no inspector e alterar p range do raio)
-            //Vector3 interactionPosition = InteractionSource.position; // mirar o npc com a FreeLookCam (escolher player no inspector e alterar p range do raio)
-            //InteractionSource.position += new Vector3(0, 1f, 0);
-            Ray playerAim = new Ray(interactionPosition, InteractionSource.forward);
-
-            // Desenha o raio na aba Scene para visualização
-            Debug.DrawRay(playerAim.origin, playerAim.direction * InteractionRange, Color.red, 1f);
-
-            //Debug.Log("lançando raio");
-
-            if (Physics.Raycast(playerAim, out RaycastHit hitInfo, InteractionRange))
-            {
-
-                if (hitInfo.collider.TryGetComponent(out IInteractable interactableObj))
-                {
-                    interactableObj.Interact();
-                }
-            }
-        }
-    }
-}
 }

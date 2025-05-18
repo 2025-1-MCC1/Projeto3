@@ -33210,8 +33210,8 @@ GameObject:
   - component: {fileID: 1196173195}
   - component: {fileID: 1196173194}
   - component: {fileID: 1196173199}
-  - component: {fileID: 1196173200}
   - component: {fileID: 1196173201}
+  - component: {fileID: 1196173202}
   m_Layer: 0
   m_Name: Jogador
   m_TagString: Player
@@ -33235,7 +33235,6 @@ MonoBehaviour:
   jumpHeight: 5
   gravity: -9.81
   mouseSensitivity: 2
-  moedasColetadas: 0
 --- !u!136 &1196173195
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -33257,7 +33256,7 @@ CapsuleCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Height: 2
-  m_Direction: 1
+  m_Direction: 0
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1196173196
 MeshRenderer:
@@ -33353,20 +33352,6 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1196173200
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1196173193}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58c4412cc8eb10f42bea1462dba57e39, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  handPoint: {fileID: 905670718}
-  raycastDistance: 3
 --- !u!54 &1196173201
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -33394,6 +33379,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1196173202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1196173193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f205b5140b1ce643a975da1fa4125c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1199819125
 GameObject:
   m_ObjectHideFlags: 0
@@ -57911,6 +57908,7 @@ GameObject:
   - component: {fileID: 2129008386}
   - component: {fileID: 2129008385}
   - component: {fileID: 2129008389}
+  - component: {fileID: 2129008390}
   m_Layer: 0
   m_Name: Chao
   m_TagString: Untagged
@@ -58040,6 +58038,27 @@ MonoBehaviour:
   m_MinRegionArea: 2
   m_NavMeshData: {fileID: 23800000, guid: b41c71834a94ca244bb440a6b92c3ce4, type: 2}
   m_BuildHeightMesh: 0
+--- !u!65 &2129008390
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2129008384}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 10.000002, y: 2.220446e-16, z: 10.000002}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &2129187077 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3809964909032177466, guid: 3b0dcdadf71b6a145968301242b395e2, type: 3}

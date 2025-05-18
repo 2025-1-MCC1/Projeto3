@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class CursorController : MonoBehaviour
 {
@@ -18,4 +18,4 @@ public class CursorController : MonoBehaviour
             Cursor.lockState = CursorLockMode.None;
         }
     }
-}
+} */
