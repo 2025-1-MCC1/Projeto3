@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\",
+  "WorkspaceRootPath": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\padil\\onedrive\\documentos\\github\\projeto3\\funfairadventures\\assets\\scripts\\parquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|c:\\users\\gusta\\onedrive\\documentos\\github\\projeto3\\funfairadventures\\assets\\scripts\\showinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\showinstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\moedas\\coletarmoedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\moedas\\gerenciadorjogo..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moedas\\gerenciadorjogo..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\moedas\\pontuadormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moedas\\pontuadormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\moedas\\coletarmoedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moedas\\coletarmoedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\painelinteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\painelinteracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\assets\\scripts\\interactwithman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3940F0D7-2BD1-A91F-8822-BABFCB031CC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactwithman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,63 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ParqueController.cs",
-              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ParqueController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ParqueController.cs",
-              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ParqueController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ParqueController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "ShowInstruction.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ShowInstruction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShowInstruction.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\ShowInstruction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShowInstruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T22:26:06.488Z",
+              "WhenOpened": "2025-05-19T02:11:10.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PainelInteracao.cs",
-              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\PainelInteracao.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PainelInteracao.cs",
-              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\PainelInteracao.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PainelInteracao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Musica.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Musica.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Musica.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:52:52.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InteractwithMan.cs",
-              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\InteractwithMan.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractwithMan.cs",
-              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\InteractwithMan.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InteractwithMan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:52:22.331Z"
+              "WhenOpened": "2025-05-19T01:41:34.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ColetarMoedas.cs",
-              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
-              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAfAAAAAAAAAA==",
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T21:04:03.551Z"
+              "WhenOpened": "2025-05-19T01:41:34.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Jogador.cs",
-              "DocumentMoniker": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Jogador.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Jogador.cs",
-              "ToolTip": "C:\\Users\\padil\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Jogador.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Jogador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PontuadorMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\PontuadorMoeda.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moedas\\PontuadorMoeda.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\PontuadorMoeda.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moedas\\PontuadorMoeda.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T00:18:37.015Z"
+              "WhenOpened": "2025-05-19T01:33:42.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GerenciadorJogo..cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\GerenciadorJogo..cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moedas\\GerenciadorJogo..cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\GerenciadorJogo..cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moedas\\GerenciadorJogo..cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:33:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColetarMoedas.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\FunFairAdventures\\Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Moedas\\ColetarMoedas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:04:03.551Z"
             }
           ]
         }

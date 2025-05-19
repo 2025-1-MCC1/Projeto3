@@ -29,7 +29,7 @@ public class GerenciadorJogo : MonoBehaviour
 
     void AtualizarTexto()
     {
-        textoPontuacao.text = $" Moedas: " + pontuacao;
+        textoPontuacao.text = $"Moedas: {moedasColetadas}";
     }
 
     void BloquearPainel()
