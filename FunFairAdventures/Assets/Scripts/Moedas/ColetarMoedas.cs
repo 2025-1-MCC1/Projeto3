@@ -1,25 +1,26 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
 
 public class ColetarMoedas : MonoBehaviour
 {
-    public int pontuacao = 0;
-    public Text textoPontuacao;
+    public GerenciadorJogo gerenciadorJogo; // Referência ao gerenciador que controla o jogo
 
-    void Start()
+    private void OnTriggerEnter(Collider other)
     {
-        textoPontuacao = GameObject.Find("TextoPontuacao").GetComponent<Text>();
-        textoPontuacao.text = "🪙 Moedas: " + pontuacao;
-    }
-
-    void OnTriggerEnter(Collider outro)
-    {
-        if (outro.CompareTag("Moeda"))
+        // Verifica se colidiu com uma moeda
+        if (other.CompareTag("Moeda"))
         {
-            Destroy(outro.gameObject);
-            pontuacao++;
-            textoPontuacao.text = "🪙 Moedas: " + pontuacao;
+            // Destroi a moeda
+            Destroy(other.gameObject);
+
+            // Informa ao GerenciadorJogo que uma moeda foi coletada
+            if (gerenciadorJogo != null)
+            {
+                gerenciadorJogo.ColetarMoeda();
+            }
+            else
+            {
+                Debug.LogWarning("GerenciadorJogo não está atribuído no ColetarMoedas!");
+            }
         }
     }
 }

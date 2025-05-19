@@ -13,13 +13,11 @@ public class Scripts : MonoBehaviour
     private bool isGrounded;
 
     private Transform cam;
-    private Transform gun;
 
     void Start()
     {
         controller = GetComponent<CharacterController>();
         cam = transform.Find("Main Camera");
-        gun = transform.Find("Shoulder");
         Cursor.lockState = CursorLockMode.Locked;
     }
 
@@ -56,6 +54,5 @@ public class Scripts : MonoBehaviour
 
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
         cam.Rotate(Vector3.right * -mouseY);
-        gun.Rotate(Vector3.right * -mouseY);
     }
 }

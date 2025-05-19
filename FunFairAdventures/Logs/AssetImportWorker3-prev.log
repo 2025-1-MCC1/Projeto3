@@ -1,0 +1,552 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'pt' Physical Memory: 16222 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/PICHAU/Documents/GitHub/Projeto3/FunFairAdventures
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52216
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/PICHAU/Documents/GitHub/Projeto3/FunFairAdventures
+C:/Users/PICHAU/Documents/GitHub/Projeto3/FunFairAdventures
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20304]  Target information:
+
+Player connection [20304]  * "[IP] 192.168.15.55 [Port] 0 [Flags] 2 [Guid] 2610913650 [EditorId] 2610913650 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OB20HP7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20304]  * "[IP] 26.80.63.255 [Port] 0 [Flags] 2 [Guid] 2610913650 [EditorId] 2610913650 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-OB20HP7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20304] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20304] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.38f1 (82314a941f2d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/PICHAU/Documents/GitHub/Projeto3/FunFairAdventures/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.7216
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001678 seconds.
+- Loaded All Assemblies, in  0.306 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.248 seconds
+Domain Reload Profiling: 553ms
+	BeginReloadAssembly (101ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (128ms)
+		LoadAssemblies (99ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (126ms)
+			TypeCache.Refresh (124ms)
+				TypeCache.ScanAssembly (114ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (248ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (210ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (38ms)
+			ProcessInitializeOnLoadAttributes (110ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.582 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.575 seconds
+Domain Reload Profiling: 1155ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (387ms)
+		LoadAssemblies (265ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (194ms)
+			TypeCache.Refresh (143ms)
+				TypeCache.ScanAssembly (130ms)
+			BuildScriptInfoCaches (40ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (576ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (457ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (312ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 212 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5995 unused Assets / (4.5 MB). Loaded Objects now: 6697.
+Memory consumption went from 162.1 MB to 157.6 MB.
+Total: 10.111100 ms (FindLiveObjects: 0.576400 ms CreateObjectMapping: 1.010500 ms MarkObjects: 5.830800 ms  DeleteObjects: 2.691800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8372.999601 seconds.
+  path: Assets/kenney_mini-characters/Models/FBX format/aid-crutch.fbx
+  artifactKey: Guid(7fcf21d6e55ea684394d83bb62c1f308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Models/FBX format/aid-crutch.fbx using Guid(7fcf21d6e55ea684394d83bb62c1f308) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '22e37a43e4d6d5e1efbf94783718c317') in 0.5271849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_mini-characters/Models/FBX format/wheelchair.fbx
+  artifactKey: Guid(9cbe9035ffd4e504b89a4b486404c986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Models/FBX format/wheelchair.fbx using Guid(9cbe9035ffd4e504b89a4b486404c986) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8070d382674781b4e33112963122bec7') in 0.0312476 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/kenney_mini-characters/Models/FBX format/character-male-a.fbx
+  artifactKey: Guid(48478b95551c5c643ba7b15f27c0a835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Models/FBX format/character-male-a.fbx using Guid(48478b95551c5c643ba7b15f27c0a835) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '353d676795a385571912a7149597acce') in 0.0703861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_mini-characters/Models/FBX format/wheelchair-power.fbx
+  artifactKey: Guid(7e9cec427a6fa7c479f4645d0f574254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Models/FBX format/wheelchair-power.fbx using Guid(7e9cec427a6fa7c479f4645d0f574254) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a703a3660474ea9b3b11604805eebbb') in 0.0310699 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_mini-characters/Models/FBX format/character-male-c.fbx
+  artifactKey: Guid(7ed0e3e9e9cf16c4aa1e85787dd35b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Models/FBX format/character-male-c.fbx using Guid(7ed0e3e9e9cf16c4aa1e85787dd35b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b046f96f992237645431aecf6a7448e9') in 0.0546847 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/kenney_mini-characters/Models/FBX format/aid-glasses.fbx
+  artifactKey: Guid(97d9d0941b434fb46adf5167300af8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Models/FBX format/aid-glasses.fbx using Guid(97d9d0941b434fb46adf5167300af8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0f1f47f56425d1112d03f83241e322f0') in 0.030312 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/kenney_mini-characters/Models/FBX format/character-female-b.fbx
+  artifactKey: Guid(abf3eb86634c4a948a1bc83d36d756db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Models/FBX format/character-female-b.fbx using Guid(abf3eb86634c4a948a1bc83d36d756db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e8ac5348e37113ff170b79fac40d32c') in 0.0499186 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.548 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.570 seconds
+Domain Reload Profiling: 1119ms
+	BeginReloadAssembly (167ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (321ms)
+		LoadAssemblies (257ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (139ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (122ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (571ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (409ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (290ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5992 unused Assets / (3.9 MB). Loaded Objects now: 6782.
+Memory consumption went from 167.7 MB to 163.8 MB.
+Total: 8.759700 ms (FindLiveObjects: 0.607400 ms CreateObjectMapping: 0.491500 ms MarkObjects: 5.045600 ms  DeleteObjects: 2.613600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.542 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.564 seconds
+Domain Reload Profiling: 1108ms
+	BeginReloadAssembly (153ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (333ms)
+		LoadAssemblies (260ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (148ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (129ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (565ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (417ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (291ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (4.0 MB). Loaded Objects now: 6784.
+Memory consumption went from 165.8 MB to 161.8 MB.
+Total: 9.270800 ms (FindLiveObjects: 0.704500 ms CreateObjectMapping: 0.656000 ms MarkObjects: 5.779100 ms  DeleteObjects: 2.129300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.548 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.579 seconds
+Domain Reload Profiling: 1128ms
+	BeginReloadAssembly (152ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (337ms)
+		LoadAssemblies (265ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (150ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (131ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (580ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (424ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (297ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5991 unused Assets / (3.9 MB). Loaded Objects now: 6786.
+Memory consumption went from 165.8 MB to 161.9 MB.
+Total: 9.850900 ms (FindLiveObjects: 0.584200 ms CreateObjectMapping: 0.761500 ms MarkObjects: 6.123700 ms  DeleteObjects: 2.379600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1903.278630 seconds.
+  path: Assets/kenney_mini-characters/Previews/aid-cane-blind.png
+  artifactKey: Guid(b0535208c947e8641aa52fcce001e2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/aid-cane-blind.png using Guid(b0535208c947e8641aa52fcce001e2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d8727fa38792d551574e4f5986aabdd') in 0.1308918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_mini-characters/Previews/character-male-b.png
+  artifactKey: Guid(fa04be8db182cfc44bd2744540361516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/character-male-b.png using Guid(fa04be8db182cfc44bd2744540361516) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d95690edbb2dc20648cdc8503c420c4') in 0.030898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/kenney_mini-characters/Previews/aid-glasses.png
+  artifactKey: Guid(8423f3b6feee6054e887e1e09971c986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/aid-glasses.png using Guid(8423f3b6feee6054e887e1e09971c986) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4048f6b4e80e8651a1d7003fbdefa8d0') in 0.0150407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/kenney_mini-characters/Previews/wheelchair.png
+  artifactKey: Guid(de549fb4706723d4194572ce7711434e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/wheelchair.png using Guid(de549fb4706723d4194572ce7711434e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ce06aa9ee760137eb288fe3f4215cfc') in 0.0175145 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/kenney_mini-characters/Previews/character-female-f.png
+  artifactKey: Guid(49eb32d8cf8e3de4e9391d394bc600fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/character-female-f.png using Guid(49eb32d8cf8e3de4e9391d394bc600fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '642fe51e5fd024adb6911dd64da4ce3d') in 0.0218284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/kenney_mini-characters/Previews/aid-crutch.png
+  artifactKey: Guid(51ca7fa8cf1628448871abcfb43005b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/aid-crutch.png using Guid(51ca7fa8cf1628448871abcfb43005b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d4c9bb5d3cf45b18b6a30393896e407') in 0.0209923 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_mini-characters/Previews/character-male-f.png
+  artifactKey: Guid(f9dd5e6c63e61e14a88e9d1364de1a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/character-male-f.png using Guid(f9dd5e6c63e61e14a88e9d1364de1a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3a5580845f4a3136e658faa69d004b1') in 0.018721 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/kenney_mini-characters/Previews/character-female-b.png
+  artifactKey: Guid(fd8b2a49c1f9c8c4595d03bcb8ab2a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/character-female-b.png using Guid(fd8b2a49c1f9c8c4595d03bcb8ab2a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b77ab5f465f7c857cd6b7b12e142e37') in 0.0170142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/kenney_mini-characters/Previews/character-male-d.png
+  artifactKey: Guid(76449553eb6a56a4b9f2524f5e7cf8db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/character-male-d.png using Guid(76449553eb6a56a4b9f2524f5e7cf8db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00b2b883889dd1fe8735bd4f89a82d59') in 0.0164318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/kenney_mini-characters/Previews/character-female-d.png
+  artifactKey: Guid(5f4b276d8cd45de4eadad88b3c64d4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/character-female-d.png using Guid(5f4b276d8cd45de4eadad88b3c64d4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e1a3b12d8f6c3e87544d16d8de1ec37') in 0.0144425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/kenney_mini-characters/Previews/character-female-c.png
+  artifactKey: Guid(285da110645a05344a5dcbe2ea4781ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/character-female-c.png using Guid(285da110645a05344a5dcbe2ea4781ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf727211817fd442dde04b3e786c4e04') in 0.0133795 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/kenney_mini-characters/Previews/aid-cane-low-vision.png
+  artifactKey: Guid(e6d8199e360e9f447a86abf05eeca1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/aid-cane-low-vision.png using Guid(e6d8199e360e9f447a86abf05eeca1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e33423e878585a7d6bc2d921ab9c8967') in 0.019516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/kenney_mini-characters/Previews/aid-mask.png
+  artifactKey: Guid(86573b5125c717140a34fd344e33e3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_mini-characters/Previews/aid-mask.png using Guid(86573b5125c717140a34fd344e33e3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'df854b15d1ee88bfc6fe6c1686f8eed5') in 0.0161997 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5985 unused Assets / (4.1 MB). Loaded Objects now: 6789.
+Memory consumption went from 166.2 MB to 162.1 MB.
+Total: 11.254900 ms (FindLiveObjects: 0.598500 ms CreateObjectMapping: 0.591400 ms MarkObjects: 7.469600 ms  DeleteObjects: 2.594000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.248 seconds
+Refreshing native plugins compatible for Editor in 2.54 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.460 seconds
+Domain Reload Profiling: 2703ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (969ms)
+		LoadAssemblies (590ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (459ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (396ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (1460ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1118ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (260ms)
+			ProcessInitializeOnLoadAttributes (752ms)
+			ProcessInitializeOnLoadMethodAttributes (88ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (37ms)
+Refreshing native plugins compatible for Editor in 1.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5992 unused Assets / (4.1 MB). Loaded Objects now: 6791.
+Memory consumption went from 165.8 MB to 161.7 MB.
+Total: 9.767000 ms (FindLiveObjects: 0.791600 ms CreateObjectMapping: 0.660800 ms MarkObjects: 5.798000 ms  DeleteObjects: 2.515300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
