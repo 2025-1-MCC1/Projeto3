@@ -62,9 +62,6 @@ Há também 4 pastas que seguem da seguinte forma:
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 💻 Configuração para Desenvolvimento
 
@@ -87,8 +84,8 @@ Coloque código do prompt de comnando se for necessário
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
+1. https://musopen.org/pt/music/43854-carry-on-bach-3-fugues-for-wind-trio/
+2. https://assetstore.unity.com/packages/3d/environments/amusement-park-asset-pack-258310
 3. <https://chooser-beta.creativecommons.org/>
 4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
