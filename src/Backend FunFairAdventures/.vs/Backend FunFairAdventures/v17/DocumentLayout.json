@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\src\\Backend FunFairAdventures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8885DB-0191-9C21-C60F-99753932F861}|Assembly-CSharp.csproj|c:\\users\\gusta\\onedrive\\documentos\\github\\projeto3\\src\\backend funfairadventures\\assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8885DB-0191-9C21-C60F-99753932F861}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\src\\Backend FunFairAdventures\\Assets\\Scripts\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\Projeto3\\src\\Backend FunFairAdventures\\Assets\\Scripts\\MenuPrincipal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:58:55.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
