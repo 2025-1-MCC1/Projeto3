@@ -7,7 +7,7 @@
 ##       FunFair Adventures
 
 ##       Algoritmos imparáveis
-## Integrantes:  <a href="https://www.linkedin.com/in/gustavo-pires-429097356">Gustavo Pires</a>,  <a href="https://www.linkedin.com/in/eduardapadilla">Eduarda Padilla</a>,  <a href="https://www.linkedin.com/in/luisspires/">Eric Aloise</a>
+## Integrantes:  <a href="https://www.linkedin.com/in/gustavo-pires-429097356">Gustavo Pires</a>,  <a href="https://www.linkedin.com/in/eduardapadilla">Eduarda Padilla</a>, <a href="https://www.linkedin.com/in/eric-aloise-de-sousa-125881367/">Eric Aloise</a>
 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>,  <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/luisspires/">Luís Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, Joyce Daniele Tavares
