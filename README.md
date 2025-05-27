@@ -98,7 +98,7 @@ Baixar a pasta "FunFair Adventures"
 
 Descompactar o arquivo
 
-Abrir a pasta como um projeto na unity (Add -> Add project from disk -> There is Monster in the Window)
+Abrir a pasta como um projeto na unity (Add -> Add project from disk -> FunFair Adventures)
 
 ## 📋 Licença/License
 <a href="https://creativecommons.org">FunFair Adventures</a> © 2025 by <a href="https://creativecommons.org">Gustavo Pires, Eric Aloise, Eduarda Padilla</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
